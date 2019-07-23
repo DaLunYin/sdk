@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jhgjghjghjghjgj
+=======
+sdfsdfsdff
+>>>>>>> sd
